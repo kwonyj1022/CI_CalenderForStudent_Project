@@ -1,0 +1,7 @@
+﻿  MakeHomeWork.c
+C:\_Programming\Git_project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\MakeHomeWork.c(8,6): warning C4013: 'init'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\_Programming\Git_project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\MakeHomeWork.c(10,9): warning C4013: 'outline'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\_Programming\Git_project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\MakeHomeWork.c(11,8): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ShowDayDiff.c
+  코드를 생성하고 있습니다...
+  CI_CalenderForStudent_Project.vcxproj -> C:\_Programming\Git_project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\x64\Debug\CI_CalenderForStudent_Project.exe

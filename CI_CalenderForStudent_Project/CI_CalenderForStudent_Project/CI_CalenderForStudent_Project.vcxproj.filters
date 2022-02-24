@@ -15,8 +15,58 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="PrintCalender2022.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DayDiff.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PassWord.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MakeHomeWork.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ShowHomework.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ShowDayDiff.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="StringSearch.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DeleteHomework.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DayDiff.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PrintCalender2022.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MakeHomeWork.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowHomeWork.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PassWord.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ShowDayDiff.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="StringSearch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DeleteHomework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

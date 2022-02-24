@@ -1,0 +1,5 @@
+﻿  main.c
+C:\_Programming\Git_project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\main.c(16,1): warning C4005: 'DELETE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\winnt.h(8865): message : 'DELETE'의 이전 정의를 참조하십시오.
+C:\_Programming\Git_project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\main.c(83,10): warning C4013: 'PassWord'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  CI_CalenderForStudent_Project.vcxproj -> C:\_Programming\Git_project\CI_CalenderForStudent_Project\CI_CalenderForStudent_Project\Debug\CI_CalenderForStudent_Project.exe
